@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\VeterinerAppxx\VeterinerAppxx\bin\Debug\VeterinerAppxx.exe.config
+C:\Users\PC\source\repos\VeterinerAppxx\VeterinerAppxx\bin\Debug\VeterinerAppxx.exe
+C:\Users\PC\source\repos\VeterinerAppxx\VeterinerAppxx\bin\Debug\VeterinerAppxx.pdb
+C:\Users\PC\source\repos\VeterinerAppxx\VeterinerAppxx\obj\Debug\VeterinerAppxx.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\VeterinerAppxx\VeterinerAppxx\obj\Debug\VeterinerAppxx.Form1.resources
+C:\Users\PC\source\repos\VeterinerAppxx\VeterinerAppxx\obj\Debug\VeterinerAppxx.Properties.Resources.resources
+C:\Users\PC\source\repos\VeterinerAppxx\VeterinerAppxx\obj\Debug\VeterinerAppxx.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\VeterinerAppxx\VeterinerAppxx\obj\Debug\VeterinerAppxx.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\VeterinerAppxx\VeterinerAppxx\obj\Debug\VeterinerAppxx.exe
+C:\Users\PC\source\repos\VeterinerAppxx\VeterinerAppxx\obj\Debug\VeterinerAppxx.pdb
+C:\Users\PC\source\repos\VeterinerAppxx\VeterinerAppxx\obj\Debug\VeterinerAppxx.Aşılar.resources
+C:\Users\PC\source\repos\VeterinerAppxx\VeterinerAppxx\obj\Debug\VeterinerAppxx.HAYVAN.resources
+C:\Users\PC\source\repos\VeterinerAppxx\VeterinerAppxx\obj\Debug\VeterinerAppxx.ilaç.resources
+C:\Users\PC\source\repos\VeterinerAppxx\VeterinerAppxx\obj\Debug\VeterinerAppxx.muayane.resources
